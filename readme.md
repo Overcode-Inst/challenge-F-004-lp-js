@@ -42,7 +42,7 @@ Ao final terá mais um ótimo projeto de portifólio.
 
 <br />
 
-Seu site de arquitetura para o clente deve conter:
+Seu site de arquitetura para o cliente deve conter:
 
 <br />
 
